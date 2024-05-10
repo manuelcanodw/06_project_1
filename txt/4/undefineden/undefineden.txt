@@ -1,0 +1,14 @@
+[36m================================================
+[39m[36mundefineden
+[39m[32m================================================
+[39men x 1 = NaN
+en x 2 = NaN
+en x 3 = NaN
+en x 4 = NaN
+en x 5 = NaN
+en x 6 = NaN
+en x 7 = NaN
+en x 8 = NaN
+en x 9 = NaN
+en x 10 = NaN
+txt\4\undefineden\undefineden.txt

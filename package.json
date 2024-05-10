@@ -1,0 +1,34 @@
+{
+  "name": "tabla_de_multiplicar",
+  "version": "1.0.0",
+  "description": "Mostrar tablas de multiplicar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "example",
+    "basic"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelcanodw/tabla_De_multiplicar"
+  },
+
+"bugs": {
+  "url": "https://github.com/manuelcanodw/tabla_De_multiplicars/issues"
+},
+
+"homepage": "https://github.com/manuelcanodw/tabla_De_multiplicar#readme",
+"author": "Manuel",
+"license": "ISC",
+"dependencies": {
+
+  "author": "Manuel",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "g1.0.0"
+  }
+}
